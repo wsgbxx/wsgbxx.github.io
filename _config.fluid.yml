@@ -385,7 +385,7 @@ search:
 
   # 文件生成在本地的位置，必须是相对路径
   # The location where the index file is generated locally, it must be a relative location
-  generate_path: /local-search.xml
+  generate_path: local-search.xml
 
   # 搜索的范围
   # Search field

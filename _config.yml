@@ -70,6 +70,15 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+# Archive Generator
+archive_generator:
+  enabled: true
+  per_page: 20
+  yearly: true
+  monthly: true
+  daily: false
+  order_by: -date
+
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -103,3 +112,9 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+search:
+  path: local-search.xml
+  field: post
+  content: true
+
