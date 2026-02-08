@@ -18,3 +18,9 @@
   line-height: 1.5;
 }
 .cat-desc-count{ opacity:.6; }
+
+/* Banner 图片从顶部开始显示 */
+#banner.banner {
+  background-position: center top !important;
+}
+
