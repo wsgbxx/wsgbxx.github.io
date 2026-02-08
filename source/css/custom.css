@@ -1,0 +1,20 @@
+.cat-desc-item{
+  margin: 14px 0;
+  padding: 14px 18px;
+  border-radius: 14px;
+  background: var(--board-bg-color, rgba(255,255,255,.9));
+  box-shadow: 0 10px 25px rgba(0,0,0,.06);
+}
+.cat-desc-head{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  font-weight:700;
+}
+.cat-desc-quote{
+  margin-top: 6px;
+  opacity: .75;
+  line-height: 1.5;
+}
+.cat-desc-count{ opacity:.6; }
