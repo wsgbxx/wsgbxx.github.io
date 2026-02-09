@@ -1,5 +1,5 @@
 ---
-title: month1|梦开始的地方
+title: month1|新的开始
 date: 2026-02-08 00:08:46
 categories:
   - 月记

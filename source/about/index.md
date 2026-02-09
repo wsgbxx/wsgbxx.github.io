@@ -5,8 +5,9 @@ subtitle: "About me"
 date: 2026-02-06 13:06:43
 ---
 
-# Student Info
+# Personal Info
 
+## Student 
 - BUPT EE 2025级本科生
 - An undergraduate student majoring in electronic engineering from the School of Electronic Engineering at Beijing University of Posts and Telecommunications.  
 
@@ -19,7 +20,7 @@ date: 2026-02-06 13:06:43
 
 ## Other Information
 
-- 域名 wsgbxx，来自于iPhone早期拼音输入法，输入"我" -> "我是" -> "是个" -> "个别" -> "个别现象"。  
+- 域名 wsgbxx，来自于iPhone早期拼音输入法，输入"我" -> "我是" -> "是个" -> "个别" -> "个别现象"->"我是个别现象"->"wsgbxx"。
 
 - 如有任何问题，欢迎联系我。  
 Feel free to contact me if you have any questions.  
