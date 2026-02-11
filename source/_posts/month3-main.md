@@ -47,9 +47,9 @@ month2文章带来的影响，确实远远超过了我的预期。在十大挂�
 
 附上Cursor cafe beijing的照片
 
-![IMG20251122092915](./extracted_files/IMG20251122092915.jpg)
+{% asset_img IMG20251122092915.jpg IMG20251122092915 %}
 
-![mmexport1763784482440](./extracted_files/mmexport1763784482440.jpg)
+{% asset_img mmexport1763784482440.jpg mmexport1763784482440 %}
 
 ### 大厂学长交流
 

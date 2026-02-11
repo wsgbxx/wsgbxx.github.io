@@ -2,6 +2,6 @@
 title: 平庸的代价从未如此残忍，而卓越的回报从未如此丰厚。
 date: 2026-02-09 01:45:56
 categories:
-  - sentence
+  - 句子
 tags:
 ---

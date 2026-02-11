@@ -3,10 +3,10 @@ title: LAWT:linear algeobra with Transformers
 date: 2026-02-09 00:41:37
 categories:
   - 项目
+  - Toy
 tags:
   - 项目
-  - 视觉
-  - RM
+  - Toy
 ---
 
 # LAWT 开发日志
@@ -102,10 +102,10 @@ tags:
 
 服务器已经停机了，附上图片纪念
 
-![IMG_20251026_190908](./extracted_files/IMG_20251026_190908.jpg)
+{% asset_img 1.jpg Screenshot %}
 
-![Screenshot_2025-10-25-11-34-09-11_7614e48627b7380b17b386d382d1b2ef](./extracted_files/Screenshot_2025-10-25-11-34-09-11_7614e48627b7380b17b386d382d1b2ef.jpg)
+{% asset_img 2.jpg Screenshot %}
 
-![Screenshot_2025-10-25-13-54-52-32_e39d2c7de19156b0683cd93e8735f348](./extracted_files/Screenshot_2025-10-25-13-54-52-32_e39d2c7de19156b0683cd93e8735f348.jpg)
+{% asset_img 3.jpg Screenshot %}
 
-![Screenshot_2025-10-31-12-02-56-65_439a3fec0400f8974d35eed09a31f914](./extracted_files/Screenshot_2025-10-31-12-02-56-65_439a3fec0400f8974d35eed09a31f914.jpg)
+{% asset_img 4.jpg Screenshot %}

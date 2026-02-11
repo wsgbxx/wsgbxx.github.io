@@ -3,6 +3,7 @@ title: Hello RMer
 date: 2026-02-09 00:40:55
 categories:
   - 项目
+  - RM
 tags:
   - robotic
 ---
