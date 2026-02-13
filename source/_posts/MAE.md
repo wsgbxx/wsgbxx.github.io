@@ -27,14 +27,14 @@ pixio repo：[https://github.com/facebookresearch/pixio](https://github.com/face
 虽然比较简陋但还是能体现出来，模型真的有学到语义信息
 
 ### imagenet val数据集测试效果
-{% asset_img MAKE MAE GREAT AGAIN_3_老师好我叫苏同学_来自小红书网页版.jpg %}
-{% asset_img MAKE MAE GREAT AGAIN_5_老师好我叫苏同学_来自小红书网页版.jpg %}
+{% asset_img "MAKE MAE GREAT AGAIN_3_老师好我叫苏同学_来自小红书网页版.jpg" %}
+{% asset_img "MAKE MAE GREAT AGAIN_5_老师好我叫苏同学_来自小红书网页版.jpg" %}
 
 说实话我觉得已经超越了普通人类的水平了，甚至有些过拟合的迹象
 于是使用了自己的手机图片进行了测试
 ### 手机图片测试
-{% asset_img MAKE MAE GREAT AGAIN_2_老师好我叫苏同学_来自小红书网页版.jpg %}
-{% asset_img MAKE MAE GREAT AGAIN_4_老师好我叫苏同学_来自小红书网页版.jpg %}
+{% asset_img "MAKE MAE GREAT AGAIN_2_老师好我叫苏同学_来自小红书网页版.jpg" %}
+{% asset_img "MAKE MAE GREAT AGAIN_4_老师好我叫苏同学_来自小红书网页版.jpg" %}  
 
 怎么说呢，嗯~~，确实强得很可怕，在语义方面比我手机里OPPO自带的AI修图要强很多
 
