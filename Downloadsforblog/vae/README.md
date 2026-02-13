@@ -237,3 +237,4 @@ python ../scripts/train_vae_cifar10.py --out-dir ./out_vae --epochs 1
 - **输入范围不对**：`sigmoid` 输出只能表达 [0,1]，你却喂了 [-1,1]。
 - **loss 与 activation 不匹配**：`BCE` 需要 recon 在 (0,1)；`MSE` 更稳。
 - **beta 太大**：KL 压得太狠会造成 recon 很糊，先从 `beta=1` 开始。
+

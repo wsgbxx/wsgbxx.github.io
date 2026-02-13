@@ -16,16 +16,7 @@ class UNetSRConfig:
     dropout: float = 0.0
 
 
-class SimpleUNetSR(nn.Module):
-    """A small UNet for supervised image-to-image tasks (e.g., super-resolution).
-
-    This is adapted from your original SR UNet, but extracted as a reusable module.
-
-    Forward returns a residual (delta). Typical usage:
-        delta = net(x)
-        y = clamp(x + delta)
-    """
-
+class UNetSR(nn.Module):
     def __init__(self, cfg: UNetSRConfig = UNetSRConfig()) -> None:
         super().__init__()
 

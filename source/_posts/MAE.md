@@ -8,7 +8,7 @@ tags:
   - 生成模型    
 ---
 实际上我没有看过MAE的paper，本次是对pixio的复现结果，当然基本架构都差不多，pixio的效果也更好。
-repo：[https://github.com/facebookresearch/pixio](https://github.com/facebookresearch/pixio)
+pixio repo：[https://github.com/facebookresearch/pixio](https://github.com/facebookresearch/pixio)
 
 ## 模型性能
 
