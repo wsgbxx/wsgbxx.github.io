@@ -1,5 +1,5 @@
 ---
-title: month4|新的开始
+title: month4|鉴往知来
 date: 2026-02-08 23:28:03
 categories:
   - 月记

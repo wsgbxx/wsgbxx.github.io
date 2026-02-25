@@ -7,7 +7,7 @@ categories:
 tags:
   - 生成模型    
 ---
-实际上我没有看过MAE的paper，本次是对pixio的复现结果，当然基本架构都差不多，pixio的效果也更好。
+实际上我没有看过MAE的paper，本次用的是比较新的pixio模型，当然基本架构都差不多，pixio的效果也更好。
 pixio repo：[https://github.com/facebookresearch/pixio](https://github.com/facebookresearch/pixio)
 
 ## 模型性能
@@ -21,10 +21,9 @@ pixio repo：[https://github.com/facebookresearch/pixio](https://github.com/face
 
 ## experiment 
 作者没有开源decoder权重，我冻结vith16的encoder，在imagenet1k上训练了decoder。
-分辨率为224*224，由于patchsize为16，所以图片会被分成14*14个patch，有点马赛克的效果。
+分辨率为224*224，由于patchsize为16，所以图片会被分成14*14个patch，patch之间割裂感比较强。
 
 ## results 
-虽然比较简陋但还是能体现出来，模型真的有学到语义信息
 
 ### imagenet val数据集测试效果
 {% asset_img "MAKE MAE GREAT AGAIN_3_老师好我叫苏同学_来自小红书网页版.jpg" %}
