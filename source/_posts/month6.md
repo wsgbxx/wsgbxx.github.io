@@ -1,9 +1,11 @@
 ---
 title: 北邮生活month6|家人、朋友、学习
 date: 2026-02-26 01:36:06
+categories:
+  - 月记
 tags:
+  - 月记
 ---
-
 # 北邮生活 month6 | 家人、朋友、学习
 
 最佳格式请移步个人博客：[www.wsgbxx.com](https://www.wsgbxx.com)
