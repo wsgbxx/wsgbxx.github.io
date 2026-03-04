@@ -11,8 +11,8 @@ date: 2026-02-06 13:06:43
 - BUPT EE 2025级本科生
 - An undergraduate student majoring in electronic engineering from the School of Electronic Engineering at Beijing University of Posts and Telecommunications.  
 
-- 目前学习方向：视觉模型  
-- Currently interested in visual perception models.  
+- 学习方向：视觉模型，强化学习
+- Currently interested in visual perception models and reinforcement learning.  
 
 ## Runner
 - A running lover, noob, and sneakerhead.
